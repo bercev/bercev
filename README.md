@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bercev
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python, Java, C++, and AI/ML
+- 🌱 I’m currently learning Python, C/C++, and AI/ML
 
 <!---
 bercev/bercev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
