@@ -16,10 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bercev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bercev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=bercev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!---
 bercev/bercev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
