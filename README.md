@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Berat:
 
-🔭 I’m currently working on LLM Research<br>🌱 I’m currently learning AI, ML, and Fullstack Web & Mobile development
+🔭 I’m currently working on LLM Research and mobile development<br>🌱 I’m currently learning AI, ML, and Fullstack Web & Mobile development
 
 ## 🌐 Socials:
 
